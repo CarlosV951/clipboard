@@ -38,12 +38,12 @@ Returns the bookmarks stored in the database.
   {
     "idMark": 0,
     "type": "type1",
-    "text": "text
+    "text": "text"
   },
   {
     "idMark": 1,
     "type": "type2",
-    "text": "text
+    "text": "text"
   }
 ]
 }
